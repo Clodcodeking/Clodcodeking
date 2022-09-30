@@ -8,3 +8,4 @@
 Clodcodeking/Clodcodeking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+I know how to use Jupyter Notebook, Microsoft SQL Server management Studio, Tableau Desktop Professional 2020, Microsoft Excel, Sklearn library (Machine learning).
