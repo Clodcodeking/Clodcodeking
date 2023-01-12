@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Clodcodeking
 - 👀 I’m interested in Data Analystics and Data Science
 - 🌱 I have basic to advanced skills in SQL, Python, Tableau and Excel. 
-- 💞️ I’m looking for an intership or even a job in Data Analytics and Data Science. 
+- 💞️ I’m looking for an internship or even a job in Data Analytics and Data Science. 
 - 📫 How to reach me on gmail: Clauderahl01@gmail.com
 
 <!---
